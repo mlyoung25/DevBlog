@@ -23,7 +23,6 @@ email: youmichl@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   DevBlog for progress and work from Michael Young for the Wolverine Soft Marketing team 
   in the 2023 - 2024 semester. Working on both project quest and project multiply
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlyoung25.github.io/DevBlog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asdf
 github_username:  MYoung25
