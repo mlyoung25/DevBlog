@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevBlog #1!"
-date:   2023-10-08 14:11:53 -0400
+date:   2023-10-08 01:11:53 -0400
 categories: jekyll update
 ---
 
