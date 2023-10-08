@@ -48,6 +48,8 @@ I then also took this hour long course on inbound marketing buyer personas on re
 ### Meeting on Sunday Sep, 30. 
 Meeting today and on wednesday talked about how getting personable visuals for each brand persona we want to view. Use the Hubspot tools to build the personas. Then we break into the departments where I went to the programming meeting to observe
 
+After the general meeting, me antonio and q hopped on a call to watch a stylescape lecture from the Futur academy and generate ideas for stylescapes for the studio.
+
 I last spent a few hours creating marketing personas for each type of "customer" we intend to market to. The goal was to create something with the persona tool that would easily show who this person was, their goals and challenges towards working with us, our goals to working with them, and how we can reach them. I ended up redoing them all later to have a cohesive style and formatting for the confluence. 
 
 <br>
@@ -68,9 +70,9 @@ I last spent a few hours creating marketing personas for each type of "customer"
 
 
 ### Time spent:
-- Meeting times: 5 hours
+- Meeting times: 7 hours
 - Setting up devblog: 2 hours
 - On-campus and online investigation of current image: 3 hours
-- Creating brand image graphics and course: 5 hour
-- Notes, research, and work on Multiply programming meeting marketing: 3 hours
+- Creating brand image graphics and course: 4 hour
+- Notes, research, and work on Multiply programming meeting marketing: 2 hours
 - total: 18 hours
