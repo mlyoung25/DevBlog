@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "DevBlog #1!"
-date:   2023-09-20 14:11:53 -0400
+date:   2023-10-08 14:11:53 -0400
 categories: jekyll update
 ---
 
 Hello!
 
-## Meeting on Sunday Sep, 23. 
+### Meeting on Sunday Sep, 23. 
 
 First Marketing assignment before Antonio has a meeting with Twitch employee about sponsoring us
 Get budgeting for trip to GDC for **x** amount of students to travel
@@ -45,6 +45,8 @@ I then also took this hour long course on inbound marketing buyer personas on re
 <br>
 <br>
 
+### Meeting on Sunday Sep, 30. 
+Meeting today and on wednesday talked about how getting personable visuals for each brand persona we want to view. Use the Hubspot tools to build the personas. Then we break into the departments where I went to the programming meeting to observe
 
 I last spent a few hours creating marketing personas for each type of "customer" we intend to market to. The goal was to create something with the persona tool that would easily show who this person was, their goals and challenges towards working with us, our goals to working with them, and how we can reach them. I ended up redoing them all later to have a cohesive style and formatting for the confluence. 
 
