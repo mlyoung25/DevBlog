@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "DevBlog #2!"
+date:   2023-10-22 01:11:53 -0400
+categories: jekyll update
+---
+
+### Meeting on Sunday Oct 8. 
+Meeting with Antonio and Carter went long, talk about stylesheets brand and got assignment to make emaillist webapp for sending mass emails to alumni with hubspot and mailgun
+
+second meeting to touch down with antonio and spent time getting started on templating a new website for the database. Antonio gave a starter template and a hackathon, node.js starter web.app. The goal is to take this and reformat it to add new pages for any new views and support API functionality. current website is completely hardcoded so I spent time to fix the routing and refactor the code to work with developing new pages. 
+
+### Meeting on Sunday October 15.
+Marketing team meeting with entire group, developing ideas for a JV team for studio, and more talk about stylesheets and brand imaging. Got more assignments for the email database, worked more on developing that.
+
+<img 
+    src="https://i.gyazo.com/eb99a4d67a92c2f3b1383dce4e6c1f24.png"
+    alt="Buyer Persona Quiz and Class">
+
+Found out that the Mailgun API will cost much more than expected, now have to reconfigure app to use Amazon SES and learn how to set that up, will also have to figure out how to hook up hubspot api to get list of contacts.
+
+After later investigation, decided to instead use SMTP2Go. Third refactoring of code took longer than expected. Set up going well, will have set up later on.
+
+### Time spent:
+- Meeting times: 8 hours
+- Email website coding : 10 hours
+- total: 18 hours
